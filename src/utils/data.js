@@ -3,7 +3,7 @@
 export const SKILLS = [
     {
         title: "Frontend",
-        icon: "https://cdn-icons-png.flaticon.com/512/2621/2621189.png",
+        icon: "https://raw.githubusercontent.com/NikhilCyberk/portfolio/main/src/assets/main_ico/front_end.png",
 
         skills: [
             { skill: "HTML5", percentage: "80%" },
