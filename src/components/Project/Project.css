@@ -1,0 +1,10 @@
+.project-container {
+    margin: 4rem 0;
+    position: absolute;
+}
+
+.project-container h5 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 3rem;
+}

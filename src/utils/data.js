@@ -45,3 +45,37 @@ export const SKILLS = [
 
     },
 ];
+
+
+export const PROJECT = [
+    {
+        title: "Project-1",
+        technologies: "html, css, javascript",
+        work: [
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+        ],
+    },
+    {
+        title: "Project-2",
+        technologies: "html, css, javascript",
+        work: [
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+        ],
+    },
+    {
+        title: "Project-3",
+        technologies: "html, css, javascript",
+        work: [
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+            "lorem ipsum dolor sit amet, consectetur adipiscing",
+        ],
+    },
+];
