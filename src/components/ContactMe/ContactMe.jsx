@@ -1,4 +1,5 @@
 import ContactCardInfo from "./ContactCardInfo/ContactCardInfo"
+import ContactForm from "./ContactForm/ContactForm"
 import "./ContactMe.css"
 
 export default function ContactMe() {
@@ -17,7 +18,9 @@ export default function ContactMe() {
                         text="knikhil128@gmail.com"
                     />
                 </div>
-                <div style={{ flex: 1 }}></div>
+                <div style={{ flex: 1 }}>
+                    <ContactForm />
+                </div>
 
             </div>
         </section>
