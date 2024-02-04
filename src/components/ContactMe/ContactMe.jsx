@@ -13,15 +13,15 @@ export default function ContactMe() {
                         icoUrl="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Gmail-Dark.svg"
                         text="knikhil128@gmail.com"
                     />
+
                     <ContactCardInfo
                         icoUrl="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Github-Dark.svg"
                         text="https://github.com/NikhilCyberk"
                     />
                 </div>
-                <div style={{ flex: 1 }}>
+                <div style={{ flex: 2 }}>
                     <ContactForm />
                 </div>
-
             </div>
         </section>
     )

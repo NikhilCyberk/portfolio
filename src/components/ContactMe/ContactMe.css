@@ -1,6 +1,7 @@
 .contact-container {
     margin: 4rem 0;
     position: relative;
+
 }
 
 .contact-container h5 {
@@ -15,12 +16,12 @@
 }
 
 @media (max-width: 768px) {
-   
-    .contact-content{
+
+    .contact-content {
         flex-direction: column-reverse;
     }
 
-    .contact-container h5{
+    .contact-container h5 {
         font-size: 1.3rem;
         margin-bottom: 1rem;
     }
