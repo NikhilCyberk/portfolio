@@ -13,10 +13,23 @@
     transform: translate(-100vw);
 }
 
+.menu-item-m {
+    color: #fff;
+}
+
+.logo-m {
+    width: 12rem;
+    height: auto;
+    margin-left: 2rem;
+    font-size: 3rem;
+    color: #fff;
+}
+
 .mobile-menu-container {
-    width: 60vw;
+    width: 40vw;
     height: 100vh;
-    background-color: #e2cff1;
+    /* background-color: #e2cff1; */
+    background-color: #41066e;
     padding: 2rem;
 }
 
@@ -40,5 +53,17 @@
 @media (max-width: 850px) {
     .mobile-menu {
         display: block;
+    }
+
+}
+
+@media (max-width: 550px) {
+    .mobile-menu-container {
+        width: 50vw;
+    }
+
+    .logo-m {
+
+        margin-left: 0.5rem;
     }
 }

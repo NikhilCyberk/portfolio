@@ -8,19 +8,19 @@ export default function MobileNav({ isOpen, toggleMenu }) {
                 onClick={toggleMenu}
                 className={`mobile-menu ${isOpen ? "active" : ""}`}>
                 <div className="mobile-menu-container">
-                    <p className="logo"><i><b>Nikhil</b></i></p>
+                    <p className="logo-m"><i><b>Nikhil</b></i></p>
                     <ul>
                         <li>
-                            <a className="menu-item">Home</a>
+                            <a className="menu-item-m">Home</a>
                         </li>
                         <li>
-                            <a className="menu-item">Skills</a>
+                            <a className="menu-item-m">Skills</a>
                         </li>
                         <li>
-                            <a className="menu-item">Projects</a>
+                            <a className="menu-item-m">Projects</a>
                         </li>
                         <li>
-                            <a className="menu-item">Contact Me</a>
+                            <a className="menu-item-m">Contact Me</a>
                         </li>
 
                         <button className="contact-btn" onClick={() => { }}>
