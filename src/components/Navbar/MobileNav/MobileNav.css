@@ -1,5 +1,5 @@
 .mobile-menu {
-    width: 100vh;
+   
     height: 100vh;
     display: none;
     background-color: rgba(0, 0, 0, 0.3);
@@ -34,6 +34,7 @@
 }
 
 .mobile-menu.active {
+    width: 100vh;
     opacity: 1;
     transform: translateX(0);
 }
