@@ -15,7 +15,7 @@ export default function ContactMe() {
                     />
                     <ContactCardInfo
                         icoUrl="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Github-Dark.svg"
-                        text="knikhil128@gmail.com"
+                        text="https://github.com/NikhilCyberk"
                     />
                 </div>
                 <div style={{ flex: 1 }}>
